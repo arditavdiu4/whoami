@@ -1,2 +1,3 @@
 # whoami
-Rreth Meje
+## Rreth Meje
+Jam Ardit Avdiu dhe interesi im eshte programimi
